@@ -1,0 +1,19 @@
+
+Class				Line Count
+Security:			304 
+Privacy:			247 
+Maintainability:		133 
+Usability:			107 
+Operational:			101 
+Capacity and performance:	73 
+Look and feel:			67 
+Other nonfunctional:		38 
+Availability: 			37 
+Recoverability:			30 
+Reliability:			22
+				= 1058
+				1058/2 = 529
+
+
+
+
