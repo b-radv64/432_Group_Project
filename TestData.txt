@@ -1,0 +1,43 @@
+Availability
+{"class":"availability","sentence":"(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity creates, receives, maintains, or transmits."},
+{"class":"availability","sentence":"(A) Implement administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health information that it creates, receives, maintains, or transmits on behalf of the covered entity as required by this subpart;"},
+
+Capacity and Performance
+{"class":"capacity and performance","sentence":"90% of tasks shall complete within 5 seconds."},
+{"class":"capacity and performance","sentence":"98% of tasks shall complete within 8 seconds."},
+
+Look and Feel
+{"class":"look and feel","sentence":"The product shall provide GUI based Monitoring Services."},
+{"class":"look and feel","sentence":"95% of the product look & feel will be approved by the Architecture group  prior to implementation."},
+
+Maintainability
+{"class":"maintainability","sentence":"The Proposer shall test application enhancements, fixes, and upgrades and assure the integrity of the resulting data."},
+{"class":"maintainability","sentence":"(1) Accept and promptly process any standard transaction that contains codes that are valid, as provided in subpart J of this part."},
+
+Operational
+{"class":"operational","sentence":"100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process."},
+{"class":"operational","sentence":"7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year."},
+
+Other Non-functional
+{"class":"other nonfunctional","sentence":"The product shall be able to display calendar dates and times according to the userÃ¢â‚¬â„¢s locale."},
+{"class":"other nonfunctional","sentence":"90% of survey respondents from each target market country will find that the date and time formatting of the product is correct."},
+
+Privacy
+{"class":"privacy","sentence":"The User agrees that in the event CMS determines or has a reasonable belief that the User has made or may have  made a use, reuse or disclosure of the aforesaid file(s) that is not authorized by this Agreement or another written  authorization from the appropriate System Manager or the person designated in section 20 of this Agreement,  CMS, at its sole discretion, may require the User to: (a) promptly investigate and report to CMS the UserÃ¢â‚¬â„¢s  determinations regarding any alleged or actual unauthorized use, reuse or disclosure, (b) promptly resolve any problems identified by the investigation; (c) if requested by CMS, submit a formal response to an allegation of unauthorized  use, reuse or disclosure; (d) if requested by CMS, submit a corrective action plan with steps designed to prevent  any future unauthorized uses, reuses or disclosures; and (e) if requested by CMS, return data files to CMS or  destroy the data files it received from CMS under this agreement."},
+{"class":"privacy","sentence":"(1) A covered entity may obtain consent of the individual to use or disclose protected health information to carry out treatment, payment, or health care operations."},
+
+Recoverability
+{"class":"recoverability","sentence":"100% of saved user preferences shall be restored when system comes back online."},
+{"class":"recoverability","sentence":"2% of the time  the system will become available within 1 hour of the time that the situation is reported."},
+
+Reliability
+{"class":"reliability","sentence":"Ã¢â‚¬Â¢ Put equipment on a UPS to prevent data loss and downtime in a power outage, spike, or sag."},
+{"class":"reliability","sentence":"If the system includes hardware, the system shall include documentation that covers the expected physical environment necessary for proper secure and reliable operation of the system including: electrical, HVAC, sterilization, and work area."},
+
+Security
+{"class":"security","sentence":"A session that has been inactive for more than ten minutes is terminated "},
+{"class":"security","sentence":"- Disable accounts after 90 days of inactivity"},
+
+Usability
+{"class":"usability","sentence":"(iii) The covered entity informs the individual that it is terminating its agreement to a restriction, except that such termination is only effective with respect to protected health information created or received after it has so informed the individual."},
+{"class":"usability","sentence":"100% of all selection and navigation functionality must be able to be activated or selected by either a mouse or a keyboard"},

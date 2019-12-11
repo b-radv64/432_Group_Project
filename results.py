@@ -1,12 +1,8 @@
-import nltk
-nltk.download('punkt')
-from nltk.stem.lancaster import LancasterStemmer
+
 import os
 import json
 import datetime
-import numpy as np
 import time
-import json
 import numpy as np
 import time
 stemmer = LancasterStemmer()
@@ -30,10 +26,6 @@ def classify(sentence, show_details=False):
     print ("%s \n classification: %s" % (sentence, return_results))
     return return_results
 
-classify("sudo make me a sandwich")
-classify("how are you today?")
-classify("talk to you tomorrow")
-classify("who are you?")
-classify("make me some lunch")
+classify("(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity creates, receives, maintains, or transmits.")
 print ()
 classify("how was your lunch?", show_details=True)
